@@ -2,3 +2,7 @@
     width:80%;
     height: 400px;
 }
+ 
+body {
+    background-image: url('download.jpg');
+  }

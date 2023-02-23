@@ -7,4 +7,5 @@ var mapOptions = {
 
 };
 //create map
-var map= new google.maps.MAP(document.getElementById("googleMap"),mapOptions)
+var map= new google.maps.MAP(document.getElementById("googleMap"),mapOptions);
+
